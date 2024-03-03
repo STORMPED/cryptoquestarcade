@@ -1,0 +1,19 @@
+{
+  "name": "cryptoquestarcade",
+  "version": "1.0.0",
+  "description": "Engage with the cryptocurrency world through jokes, trivia, and a trading simulator.",
+  "main": "CryptoQuestArcade.js",
+  "scripts": {
+    "start": "node CryptoQuestArcade.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/STORMPED/cryptoquestarcade.git"
+  },
+  "homepage": "https://STORMPED.github.io/cryptoquestarcade/",
+  "author": "STORMPED",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
